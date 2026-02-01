@@ -115,7 +115,7 @@ Exploring the cosmos through code.
 
 ## 🎯 Current Goals
 
-- 🎓 Excel in **BSc(Hons) Computer Science** at Delhi University
+- 🎓 Excel in Data Analytics
 - 📚 Ace **JEE Mains 2026** while staying active in tech
 - 🤖 Build production-ready **AI Agents** and automation workflows
 - 📊 Complete **Google Cloud** and **Oracle** certifications
