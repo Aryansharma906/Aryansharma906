@@ -14,7 +14,7 @@
 
 **Software Engineer | Musician | Author | AI Explorer | Storyteller of Human & Machine Dreams**
 
-I am an **AI generalist**—a bridge between silicon and soul, where algorithms meet empathy and data dances with human dreams. Currently pursuing **BTech in Computer Science** at IILM Univesity, specializing in Data Science, AI, and ML.
+I am an **Data science and machine student**—a bridge between silicon and soul, where algorithms meet empathy and data dances with human dreams. Currently pursuing **BTech in Computer Science** at IILM Univesity, specializing in Data Science, AI, and ML.
 
 🎓 **Student** at IILM University | 🏡 Based in Greater Noida, Uttar Pradesh India  
 📚 Preparing for **UPSC** while building the future, one line of code at a time  
@@ -26,12 +26,13 @@ I am an **AI generalist**—a bridge between silicon and soul, where algorithms 
 
 ## 🚀 What I'm Currently Exploring
 
-- 🧠 Building **AI Agents** and **Agentic AI workflows**
-- 🤖 Experimenting with **AI automation** and **psychometric neural networks**
-- 🌐 Developing **full-stack web applications** with modern tech stacks
-- 📊 Diving deep into **Data Science**, **Machine Learning**, and **NLP**
-- 🎯 Preparing for **UPSC** while upskilling in AI/ML
-- 📝 Creating **tech content** on LinkedIn, sharing insights on AI and human-machine collaboration
+- Strengthening Python programming
+- Building production-quality software projects
+- Learning SQL, Pandas, and NumPy
+- Exploring Machine Learning fundamentals
+- Improving software engineering practices
+- Studying AI Safety and Responsible AI
+
 
 ---
 
@@ -44,13 +45,21 @@ I am an **AI generalist**—a bridge between silicon and soul, where algorithms 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Currently Learning
+- SQL
+- Pandas
+- NumPy
+- Streamlit
+- FastAPI
+- Data Structures & Algorithms
+
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### AI/ML & Data Science
+### learning AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -63,7 +72,7 @@ I am an **AI generalist**—a bridge between silicon and soul, where algorithms 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Areas of Expertise
+### Exploring
 - 🤖 **AI Automation** & **Agentic AI Workflows**
 - 🧠 **Machine Learning** & **Deep Learning**
 - 📊 **Data Science** & **Big Data**
@@ -76,8 +85,16 @@ I am an **AI generalist**—a bridge between silicon and soul, where algorithms 
 ## 📌 Featured Projects
 
 ### 🌐 [My Personal Website](https://github.com/Aryansharma906/My_Personal_Website)
-**Tech Stack:** TypeScript, React, Vite, TailwindCSS, shadcn/ui  
-A modern, responsive personal portfolio showcasing my work, built with cutting-edge web technologies.
+**Tech Stack:**
+Personal portfolio built using React, TypeScript, Vite, and Tailwind CSS.
+
+Highlights
+
+- Responsive design
+- Modern UI
+- Project showcase
+- Certifications
+- Continuous improvements
 
 ### 🎮 [Monkey-Chunky](https://github.com/Aryansharma906/Monkey-Chunky)
 **Tech Stack:** JavaScript  
@@ -138,12 +155,18 @@ I believe technology should amplify humanity, not replace it. My work sits at th
 
 ## 🤝 Let's Connect!
 
-**Open to opportunities in:**
-- 🔹 Software Engineering
-- 🔹 Data Entry Specialist
-- 🔹 Data Analyst
-- 🔹 Generative AI Engineering
-- 🔹 AI Automation Projects
+
+# 📚 Certifications
+
+- Harvard CS50x – Introduction to Computer Science
+- Python Programming Certification
+- Deloitte Data Analytics Virtual Job Simulation (Forage)
+- Tata Group GenAI Data Analytics Virtual Job Simulation (Forage)
+- Commonwealth Bank Introduction to Data Science Virtual Job Simulation (Forage)
+- JPMorgan Chase Software Engineering Virtual Job Simulation (Forage)
+- TCS Cybersecurity Virtual Job Simulation (Forage)
+
+---
 
 **Volunteer Interests:**
 - 📚 Education & Workforce Development
