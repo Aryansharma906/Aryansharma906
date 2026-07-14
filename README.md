@@ -14,10 +14,10 @@
 
 **Software Engineer | Musician | Author | AI Explorer | Storyteller of Human & Machine Dreams**
 
-I am an **AI generalist**—a bridge between silicon and soul, where algorithms meet empathy and data dances with human dreams. Currently pursuing **BSc(Hons) in Computer Science** at Delhi University, specializing in Data Science, AI, and ML.
+I am an **AI generalist**—a bridge between silicon and soul, where algorithms meet empathy and data dances with human dreams. Currently pursuing **BTech in Computer Science** at IILM Univesity, specializing in Data Science, AI, and ML.
 
-🎓 **Student** at Delhi University | 🏡 Based in Faridabad, Haryana, India  
-📚 Preparing for **JEE Mains 2026** while building the future, one line of code at a time  
+🎓 **Student** at IILM University | 🏡 Based in Greater Noida, Uttar Pradesh India  
+📚 Preparing for **UPSC** while building the future, one line of code at a time  
 🎸 Musician | ✍️ Author | 🤖 AI Enthusiast | 🎬 Content Creator
 
 > *"Some messages don't arrive as words—they arrive as a shift in the air."*
@@ -116,7 +116,7 @@ Exploring the cosmos through code.
 ## 🎯 Current Goals
 
 - 🎓 Excel in Data Analytics
-- 📚 Ace **JEE Mains 2026** while staying active in tech
+- 📚 Ace **UPSC** while staying active in tech
 - 🤖 Build production-ready **AI Agents** and automation workflows
 - 📊 Complete **Google Cloud** and **Oracle** certifications
 - 🌐 Contribute to **open-source** AI/ML projects
