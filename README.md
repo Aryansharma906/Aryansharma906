@@ -153,9 +153,6 @@ I believe technology should amplify humanity, not replace it. My work sits at th
 
 ---
 
-## 🤝 Let's Connect!
-
-
 # 📚 Certifications
 
 - Harvard CS50x – Introduction to Computer Science
@@ -166,7 +163,26 @@ I believe technology should amplify humanity, not replace it. My work sits at th
 - JPMorgan Chase Software Engineering Virtual Job Simulation (Forage)
 - TCS Cybersecurity Virtual Job Simulation (Forage)
 
+# 📖 Research Interests
+
+- Artificial Intelligence
+- AI Safety
+- Responsible AI
+- Machine Learning
+- Data Science
+- Software Engineering
+
 ---
+
+# ✍ Current Writing
+
+Working on a long-form technical article:
+
+**The Architecture of Vulnerability: A Contemplative Inquiry into LLM Prompt Injection and the Future of Semantic Security**
+
+The article explores prompt injection attacks, semantic security, and the broader implications of secure AI systems.
+
+-----
 
 **Volunteer Interests:**
 - 📚 Education & Workforce Development
@@ -184,8 +200,25 @@ I believe technology should amplify humanity, not replace it. My work sits at th
 
 ---
 
+# 🌱 Philosophy
+
+I believe expertise is earned through curiosity, consistency, and building real things.
+
+Every project in this profile represents a step in my learning journey rather than a claim of mastery.
+
+---
+
 ### ✨ *"Where algorithms dream and melodies spark, I code the future with a poet's heart."* ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aryansharma906&color=blueviolet&style=for-the-badge)
+'m always interested in discussing:
 
+- Artificial Intelligence
+- Software Engineering
+- Open Source
+- Data Science
+- Research
+- Technology for Social Good
+
+Thanks for visiting my GitHub profile!
 </div>
