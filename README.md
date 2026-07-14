@@ -30,7 +30,7 @@ I am an **AI generalist**—a bridge between silicon and soul, where algorithms 
 - 🤖 Experimenting with **AI automation** and **psychometric neural networks**
 - 🌐 Developing **full-stack web applications** with modern tech stacks
 - 📊 Diving deep into **Data Science**, **Machine Learning**, and **NLP**
-- 🎯 Preparing for **JEE Mains 2026** while upskilling in AI/ML
+- 🎯 Preparing for **UPSC** while upskilling in AI/ML
 - 📝 Creating **tech content** on LinkedIn, sharing insights on AI and human-machine collaboration
 
 ---
