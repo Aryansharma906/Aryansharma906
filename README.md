@@ -47,23 +47,21 @@ I am a **Data Science & Machine Learning student**—a bridge between silicon an
 
 ---
 
-## 📈 GitHub Analytics & Stats
+## 📊 GitHub Analytics & Activity
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aryansharma906&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansharma906&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" width="100%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryansharma906&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/github/repositories/Aryansharma906?style=for-the-badge&logo=github&color=3178C6&label=Public%20Repositories" alt="Public Repositories" />
+  <img src="https://img.shields.io/github/followers/Aryansharma906?style=for-the-badge&logo=github&color=38B2AC&label=GitHub%20Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Aryansharma906?style=for-the-badge&logo=github&color=F7DF1E&label=Total%20Stars" alt="Total Stars" />
+</p>
+
+### 📈 Contribution Activity Graph
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryansharma906&theme=react-dark&hide_border=true&area=true" width="100%" alt="Aryan's Contribution Activity Graph" />
+
+</div>
 
 ---
 
