@@ -51,6 +51,94 @@ I am a **Data Science & Machine Learning student**—a bridge between silicon an
 
 ---
 
+## 🚀 Featured Best Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/Aryansharma906/developer-portfolio">Developer Portfolio</a></h3>
+      <p><b>Full-Stack Personal Developer Portfolio & AI Chat</b></p>
+      <p>Interactive, performance-optimized developer portfolio featuring a custom AI assistant integration powered by Supabase Edge Functions, Express.js microservices, and Shadcn UI animation primitives.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Aryansharma906/vectorshift-ai-pipeline-builder">VectorShift AI Pipeline Builder</a></h3>
+      <p><b>Visual AI Workflow Builder with Real-time DAG Validation</b></p>
+      <p>Interactive drag-and-drop node pipeline builder (like LangChain/Flowise). Built with React Flow and a Python FastAPI backend that executes Topological Sorting (Kahn's Algorithm) for real-time cycle detection.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Flow-FF007A?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧸 <a href="https://github.com/Aryansharma906/webar-toy-shop-ecommerce">WebAR Toy Shop</a></h3>
+      <p><b>Augmented Reality E-Commerce Product Experience</b></p>
+      <p>Web-based AR application allowing users to view and interact with high-fidelity 3D PBR GLTF toy models in physical space using camera marker tracking and custom UI overlays.</p>
+      <p>
+        <img src="https://img.shields.io/badge/A--Frame-EF2D5E?style=flat-square&logo=aframe&logoColor=white" />
+        <img src="https://img.shields.io/badge/AR.js-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+        <img src="https://img.shields.io/badge/3D_GLTF-000000?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/Aryansharma906/monkey-chunky-phonics-app">Monkey Chunky Phonics App</a></h3>
+      <p><b>Cross-Platform Mobile Educational Learning App</b></p>
+      <p>React Native and Expo mobile application designed for phonics pronunciation and word chunking learning with interactive child-friendly UI components.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤿 <a href="https://github.com/Aryansharma906/webar-underwater-explorer">WebAR Underwater Explorer</a></h3>
+      <p><b>3D WebGL Ocean Exploration & Scuba Diving Scene</b></p>
+      <p>Immersive 3D WebAR ocean environment featuring animated scuba diver entities, coastal island assets, and PBR marine textures rendered via WebGL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/A--Frame-EF2D5E?style=flat-square&logo=aframe&logoColor=white" />
+        <img src="https://img.shields.io/badge/AR.js-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/Aryansharma906/mapbox-geolocation-navigation">Mapbox Navigation System</a></h3>
+      <p><b>Interactive Geolocation & Turn-by-Turn Directions App</b></p>
+      <p>Real-time location-based mapping web application integrating Mapbox GL JS, Geolocation tracking, and the Mapbox Directions API for turn-by-turn routing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Mapbox_GL_JS-000000?style=flat-square&logo=mapbox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Geolocation_API-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" width="100%">
+      <h3>🏦 <a href="https://github.com/Aryansharma906/jpmc-software-engineering">JPMorgan Chase Software Engineering Simulation</a></h3>
+      <p>Financial data streaming pipeline refactoring and real-time stock price feed visualization built during the JPMorgan Chase Forage Virtual Internship.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JPMorgan_Chase-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Financial_Data-0077B5?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
@@ -118,37 +206,6 @@ I am a **Data Science & Machine Learning student**—a bridge between silicon an
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
-
----
-
-## 📌 Featured Repositories
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>💼 <a href="https://github.com/Aryansharma906/developer-portfolio">Developer Portfolio</a></h3>
-      <p>Full-stack developer portfolio built with React 18, TypeScript, Vite, Tailwind CSS, and Supabase Edge Functions AI Chat.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code> <code>Supabase</code></p>
-    </td>
-    <td width="50%">
-      <h3>⚡ <a href="https://github.com/Aryansharma906/vectorshift-ai-pipeline-builder">VectorShift AI Pipeline Builder</a></h3>
-      <p>Node-based visual AI workflow builder (React Flow + FastAPI) with real-time DAG cycle detection using Kahn's algorithm.</p>
-      <p><code>React Flow</code> <code>FastAPI</code> <code>Python</code> <code>Zustand</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📱 <a href="https://github.com/Aryansharma906/monkey-chunky-phonics-app">Monkey Chunky Phonics App</a></h3>
-      <p>Cross-platform React Native / Expo mobile app designed for interactive phonics and word chunking learning.</p>
-      <p><code>React Native</code> <code>Expo</code> <code>JavaScript</code></p>
-    </td>
-    <td width="50%">
-      <h3>🥽 <a href="https://github.com/Aryansharma906/webar-toy-shop-ecommerce">WebAR Toy Shop</a></h3>
-      <p>Interactive Augmented Reality e-commerce prototype built with A-Frame, AR.js, and 3D GLTF model textures.</p>
-      <p><code>A-Frame</code> <code>AR.js</code> <code>WebGL</code> <code>3D GLTF</code></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
