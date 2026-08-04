@@ -1,10 +1,12 @@
 <div align="center">
 
-# 🌌 Where Algorithms Dream and Melodies Spark
-### I code the future with a poet's heart
+# ✨ Hi there, I'm Aryan Sharma! 👋
+
+### **Software Engineer | Musician | Author | AI Explorer | Storyteller of Human & Machine Dreams**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-sharma-6a7b85317/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryansharma906)
+![Profile Views](https://komarev.com/ghpvc/?username=Aryansharma906&color=7928CA&style=for-the-badge)
 
 </div>
 
@@ -12,15 +14,26 @@
 
 ## 👋 About Me
 
-**Software Engineer | Musician | Author | AI Explorer | Storyteller of Human & Machine Dreams**
+I am a **Data science and machine learning student**—a bridge between silicon and soul, where algorithms meet empathy and data dances with human dreams. Currently pursuing **BTech in Computer Science** at IILM University, specializing in Data Science, AI, and ML.
 
-I am an **Data science and machine student**—a bridge between silicon and soul, where algorithms meet empathy and data dances with human dreams. Currently pursuing **BTech in Computer Science** at IILM Univesity, specializing in Data Science, AI, and ML.
-
-🎓 **Student** at IILM University | 🏡 Based in Greater Noida, Uttar Pradesh India  
+🎓 **Student** at IILM University | 🏡 Based in Greater Noida, Uttar Pradesh, India  
 📚 Preparing for **UPSC** while building the future, one line of code at a time  
 🎸 Musician | ✍️ Author | 🤖 AI Enthusiast | 🎬 Content Creator
 
 > *"Some messages don't arrive as words—they arrive as a shift in the air."*
+
+---
+
+## 📊 GitHub Analytics & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryansharma906&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Aryan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansharma906&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryansharma906&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
 
 ---
 
@@ -33,19 +46,18 @@ I am an **Data science and machine student**—a bridge between silicon and soul
 - Improving software engineering practices
 - Studying AI Safety and Responsible AI
 
-
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Currently Learning
+### 📖 Currently Learning
 - SQL
 - Pandas
 - NumPy
@@ -53,26 +65,26 @@ I am an **Data science and machine student**—a bridge between silicon and soul
 - FastAPI
 - Data Structures & Algorithms
 
-### Frameworks & Libraries
+### ⚛️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### learning AI/ML & Data Science
+### 🤖 AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Exploring
+### 🔮 Exploring
 - 🤖 **AI Automation** & **Agentic AI Workflows**
 - 🧠 **Machine Learning** & **Deep Learning**
 - 📊 **Data Science** & **Big Data**
@@ -84,49 +96,28 @@ I am an **Data science and machine student**—a bridge between silicon and soul
 
 ## 📌 Featured Projects
 
-### 🌐 [My Personal Website](https://github.com/Aryansharma906/My_Personal_Website)
-**Tech Stack:**
+### 🌐 [Developer Portfolio](https://github.com/Aryansharma906/developer-portfolio)
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Shadcn UI, Express, Supabase  
 Personal portfolio built using React, TypeScript, Vite, and Tailwind CSS.
+- Responsive design & Modern UI
+- Integrated AI Assistant (`AIChat.tsx`)
+- Project showcase & Certifications viewer
 
-Highlights
-
-- Responsive design
-- Modern UI
-- Project showcase
-- Certifications
-- Continuous improvements
-
-### 🎮 [Monkey-Chunky](https://github.com/Aryansharma906/Monkey-Chunky)
-**Tech Stack:** JavaScript  
+### 🎮 [Monkey-Chunky](https://github.com/Aryansharma906/monkey-chunky-phonics-app)
+**Tech Stack:** JavaScript, React Native, Expo  
 A word phonic game that combines fun and learning.
 
-### 🎯 [Maze Runner](https://github.com/Aryansharma906/Maze-runner-)
-**Tech Stack:** JavaScript  
-An interactive maze game demonstrating algorithmic thinking.
+### 🎯 [Maze Runner](https://github.com/Aryansharma906/maze-runner-2d-game)
+**Tech Stack:** JavaScript, p5.js, p5.play  
+An interactive 2D maze game demonstrating algorithmic thinking and physics.
 
-### 📊 [BarCode Scanner](https://github.com/Aryansharma906/BarCodeScanner)
-**Tech Stack:** JavaScript, WiLY  
+### 📊 [BarCode Scanner](https://github.com/Aryansharma906/barcode-scanner-mobile)
+**Tech Stack:** JavaScript, Mobile Web Camera API  
 Barcode scanning application built from scratch.
 
-### 🚀 [Space](https://github.com/Aryansharma906/Space)
-**Tech Stack:** JavaScript  
+### 🚀 [Space Invaders Game](https://github.com/Aryansharma906/space-invaders-game-clone)
+**Tech Stack:** JavaScript, WebGL  
 Exploring the cosmos through code.
-
-*Check out more of my projects in the repositories below!*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryansharma906&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansharma906&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryansharma906&theme=radical)
-
-</div>
 
 ---
 
@@ -153,7 +144,7 @@ I believe technology should amplify humanity, not replace it. My work sits at th
 
 ---
 
-# 📚 Certifications
+## 📚 Certifications
 
 - Harvard CS50x – Introduction to Computer Science
 - Python Programming Certification
@@ -163,7 +154,9 @@ I believe technology should amplify humanity, not replace it. My work sits at th
 - JPMorgan Chase Software Engineering Virtual Job Simulation (Forage)
 - TCS Cybersecurity Virtual Job Simulation (Forage)
 
-# 📖 Research Interests
+---
+
+## 📖 Research Interests
 
 - Artificial Intelligence
 - AI Safety
@@ -174,51 +167,47 @@ I believe technology should amplify humanity, not replace it. My work sits at th
 
 ---
 
-# ✍ Current Writing
+## ✍️ Current Writing
 
 Working on a long-form technical article:
 
-**The Architecture of Vulnerability: A Contemplative Inquiry into LLM Prompt Injection and the Future of Semantic Security**
+> **The Architecture of Vulnerability: A Contemplative Inquiry into LLM Prompt Injection and the Future of Semantic Security**
 
-The article explores prompt injection attacks, semantic security, and the broader implications of secure AI systems.
+*The article explores prompt injection attacks, semantic security, and the broader implications of secure AI systems.*
 
------
+---
 
-**Volunteer Interests:**
+## 🤝 Volunteer Interests
+
 - 📚 Education & Workforce Development
 - 💡 Science & Technology
 - 🧠 Mental Health & Crisis Intervention
 - 🌍 Community Improvement
 
+---
+
+## 🌱 Philosophy & Values
+
+I believe expertise is earned through curiosity, consistency, and building real things. Every project in this profile represents a step in my learning journey rather than a claim of mastery.
+
+> ✨ *"Where algorithms dream and melodies spark, I code the future with a poet's heart."* ✨
+
+I'm always interested in discussing:
+- Artificial Intelligence & Agentic Workflows
+- Software Engineering & Architecture
+- Open Source & Data Science
+- Technology for Social Good
+
+*Thanks for visiting my GitHub profile!*
+
+---
+
 <div align="center">
 
-### 💌 Reach Out
+### 💌 Reach Out & Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Sharma-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-sharma-6a7b85317/)
 [![GitHub](https://img.shields.io/badge/GitHub-Aryansharma906-181717?style=for-the-badge&logo=github)](https://github.com/Aryansharma906)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansharma906@gmail.com)
 
----
-
-# 🌱 Philosophy
-
-I believe expertise is earned through curiosity, consistency, and building real things.
-
-Every project in this profile represents a step in my learning journey rather than a claim of mastery.
-
----
-
-### ✨ *"Where algorithms dream and melodies spark, I code the future with a poet's heart."* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aryansharma906&color=blueviolet&style=for-the-badge)
-'m always interested in discussing:
-
-- Artificial Intelligence
-- Software Engineering
-- Open Source
-- Data Science
-- Research
-- Technology for Social Good
-
-Thanks for visiting my GitHub profile!
 </div>
